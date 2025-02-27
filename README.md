@@ -6,7 +6,7 @@ A Lossless Compression Method for VCD Files Based on Signal Function Relationshi
 
 Zhiqiang He 
 Nanjing University of Aeronautics and Astronautics
-zhiqiang he@nuaa.edu.cn
+zhiqiang_he@nuaa.edu.cn
 
 
 Gang Chen
